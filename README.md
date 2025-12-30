@@ -1,5 +1,4 @@
 # IAM-Security-users-groups-permissions-and-MFA
-# 🔐 AWS IAM Security Basics Project
 
 This project demonstrates **AWS Identity and Access Management (IAM)** hands-on fundamentals.  
 You will see how to securely grant and control access to AWS services using IAM Users, Groups, Policies, and MFA.
